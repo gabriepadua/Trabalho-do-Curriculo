@@ -1,0 +1,76 @@
+.fundo1{
+  background-color: #333333;
+}
+
+.fundo2{
+  background-color:  #f2f2f2;
+}
+
+.fotodeperfil{
+   width: 300px;
+   height: 200px;
+   border-radius: 50%;
+   transition: all 0.5s;
+}
+.fotodeperfil:hover{
+  width: 320px;
+  height: 220px;
+  transition: all 0.5s;
+}
+
+  
+
+.icons{
+  color: #4d94ff;
+}
+
+.brancao{
+  color: white;
+}
+
+.topicos{
+  font-weight: bold
+}
+
+.textos{
+  color:  	 #bfbfbf;
+  text-align: center;
+}
+
+.as{
+  margin-top: 0px;
+}
+
+.carac{  
+color:  	 #bfbfbf;
+text-align: center;
+}
+
+.esquerda{
+  margin-right:;
+}
+
+.black{
+  color: black;
+}
+
+.bs{
+  margin-top: 10px;
+}
+
+.hr {
+height: 2px;
+background-color: black;
+border: none;
+}
+
+#p{
+color: #4d94ff;
+}
+
+.scale{
+  max-width:30px;
+    max-height:30px;
+    width: auto;
+    height: auto;   
+}
